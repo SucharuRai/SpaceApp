@@ -18,6 +18,7 @@ python -m venv env
 - Install all the packages
 ```
 pip install -r requirements.txt
+pip install django-cors-headers
 ```
 - Migrate the database
 ```
